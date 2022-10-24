@@ -18,7 +18,7 @@ const _import = (path) => {
 
 const routes = [
     {
-        path: '/',
+        path: '/Fandian',
         name: '首頁',
         component: _import('Home'),
         meta: { transition: 'home-page' },
